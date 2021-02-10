@@ -41,11 +41,11 @@ function possibleChoices() {
 }
 
 function win() {
-    document.getElementById("results").innerText = "You win"
+    document.getElementById("results").innerText = "You Win"
 }
 function lose() {
-    document.getElementById("results").innerText = "You lose"
+    document.getElementById("results").innerText = "You Lose"
 }
 function tie() {
-    document.getElementById("results").innerText = "tie"
+    document.getElementById("results").innerText = "Tie"
 }
